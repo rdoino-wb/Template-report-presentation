@@ -1,9 +1,9 @@
 .quarto-title-block .quarto-title-banner {
   background-image: url("https://raw.githubusercontent.com/rdoino-wb/Template-report-presentation/2a76fe9217fc2aa00cfd0f5322ec160ca46f86c2/img/WBG_Vertical-RGB-high.png"); /* Updated */
-  background-size: 300px;
-  background-position: left;
-  background-repeat: no-repeat;
-  background-origin: content-box;
-  padding-left: 10px;
-  background-color: greenyellow;
+  background-size: 300px !important;
+  background-position: left !important;
+  background-repeat: no-repeat !important;
+  background-origin: content-box !important;
+  padding-left: 10px !important;
+  background-color: greenyellow !important;
 }
