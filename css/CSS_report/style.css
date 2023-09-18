@@ -1,0 +1,10 @@
+.quarto-title-block .quarto-title-banner {
+  background-size: 300px;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  padding-left: 10px;
+  
+  /* Add a background color */
+  background-color: rgb(0, 160, 218);  /* Replace with the color you want */
+}
